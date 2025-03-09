@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
           `
   
       // Create the mailto link
-      const mailtoLink = `mailto:chinthanas70@gmail.com?subject=New Contact Form Submission&body=${encodeURIComponent(emailBody)}`
+      const mailtoLink = `mailto:zastriya.associates@gmail.com?subject=New Contact Form Submission&body=${encodeURIComponent(emailBody)}`
   
       // Open the user's default email client
       window.location.href = mailtoLink
